@@ -2,7 +2,7 @@
   "name": "monster_rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://azhar258.github.io/Devil-dex",
+  "homepage": "https://azhar258.github.io/devil-dex",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
