@@ -1,0 +1,17 @@
+.container-component {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rgb(13, 193, 136);
+  border-radius: 5px;
+  grid-gap: 25px;
+  background-color: #95dada;
+  padding: 25px;
+  cursor: pointer;
+  backface-visibility: hidden;
+  transform: translate(0);
+  transition: transform 0.25s ease-out;
+}
+
+.container-component:hover {
+  transform: scale(1.25);
+}
